@@ -1,3 +1,15 @@
 {
-    "greetings": "Hello",
+    "greetings": "Welcome",
+    "languageSwitch": "தமிழ்",
+    "appTitle": "EasyLearn",
+    "games": "Games",
+    "subjects": "Subjects",
+    "science": "Science",
+    "maths": "Maths",
+    "tamil": "தமிழ்",
+    "english": "English",
+    "socialScience": "Social Science",
+    "chapters": "Chapters",
+    "videos": "Videos",
+    "continued": "Continue"
 }
